@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&center=true&repeat=false&width=1000&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Anindya!)](https://git.io/typing-svg)
+<h2 align="center">👋 Hey there, I'm Anindya!</h2>
 
 <!--
 **Anindya-ctrl/Anindya-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - I'm also a fellow desktop Linux enthusiast and a passionate Windows hater.
 
 
-
-![most used languages by Atr-eus](https://github-readme-stats.vercel.app/api/top-langs/?username=Atr-eus&layout=compact&theme=transparent)
+<br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atr-eus&layout=compact&theme=dracula" height="150" alt="languages graph"  />
+</div>
