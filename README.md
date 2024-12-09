@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - I'm an aspiring software engineer who is perpetually astonished and intrigued by the world of technology.
-- I'm currently attending a CSE undergraduate course.
+- I'm currently attending a CSE undergraduate course at Jahangirnagar University.
 - I've primarily worked on full-stack web development.
 - At the time of writing this, I'm exploring the world of DSA and trying to strengthen the basics not only for CS but also for engineering.
 - Recently, I've started doing CTF challenges; perhaps I'll commit more time to cybersecurity.
