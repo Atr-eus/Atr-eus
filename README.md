@@ -8,8 +8,10 @@ Here are some ideas to get you started:
 - I'm an aspiring software engineer who is perpetually astonished and intrigued by the world of technology.
 - I'm currently attending a CSE undergraduate course at Jahangirnagar University.
 - I've primarily worked on full-stack web development.
-- At the time of writing this, I'm exploring the world of DSA and trying to strengthen the basics not only for CS but also for engineering.
-- Recently, I've started doing CTF challenges; perhaps I'll commit more time to cybersecurity.
+- Currently, I'm exploring:
+  - Embedded Software Engineering
+  - Cybersecurity
+- At the time of writing this, I'm also exploring the world of DSA and trying to strengthen the basics not only for CS but also for engineering.
 - I like anime and manga of *all* types. But if I had to choose my absolute favorite, it would be K-ON. Don't worry if you've never heard of it.
 - I'm also a fellow desktop Linux enthusiast and a passionate Windows hater.
 
