@@ -9,17 +9,16 @@ Here are some ideas to get you started:
 - I'm currently attending a CSE undergraduate course at Jahangirnagar University.
 - I've primarily worked on full-stack web development, although I've shifted away from it.
 - Currently, I'm exploring:
-  - Embedded Software Engineering
+  - Low level programming in general
   - Cybersecurity
 - At the time of writing this, I'm also exploring the world of DSA and trying to strengthen the basics not only for CS but also for engineering.
 - I like anime and manga of *all* types. But if I had to choose my absolute favorite, it would be K-ON. ~~Don't worry if you've never heard of it.~~
 - I'm also a fellow desktop Linux enthusiast and a passionate Windows hater.
 
-- Talk to be about:
-  - Anime, Manga, Novels
-  - Games
-  - Web series
+- Talk to me about:
+  - Anime, Manga, Novels, Games, Web series
   - Anything related to tech
+  - Sports
   - Culture
   - Philosophy
 - Do *not* talk to me about:
