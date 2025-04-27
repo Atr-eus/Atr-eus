@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 - Do *not* talk to me about:
   - Religion
   - Politics
-  - Your sex life
 
 
 <br />
